@@ -1,4 +1,5 @@
-//interface
+
+//interface for View
 import javax.swing.JPanel;
 
 public interface View {
