@@ -6,3 +6,5 @@ Desgin Patterns used -
 2. Strategy Pattern for Controller
 3. Iterator Pattern for Model
 4. Observer Pattern for interaction between model and view
+
+Transformed monolithic implementation in NotSoGood.java to adhere to MVC architecture.
